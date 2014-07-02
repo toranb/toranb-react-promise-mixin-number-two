@@ -1,0 +1,7 @@
+{
+  "main": "main",
+  "registry": "jspm",
+  "dependencies": {
+    "rsvp": "github:tildeio/rsvp.js@3.0.6"
+  }
+}
